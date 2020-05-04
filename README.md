@@ -9,7 +9,7 @@ A repository containing link of good interview questions
 * [Diameter of a Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 * [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 * [Binary Tree Check if valid sequence from root to leaf](https://thefellowprogrammer.blogspot.com/2020/04/check-if-string-is-valid-sequence-from.html)
-
+* [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
 
 ## Geeks For Geeks
 
