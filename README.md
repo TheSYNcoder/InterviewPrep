@@ -14,4 +14,4 @@ A repository containing link of good interview questions
 ## Geeks For Geeks
 
 * [Transform String [String][Two Pointer] ](https://practice.geeksforgeeks.org/problems/transform-string/0)
-* [Maximize Dot Product [DP] [Greedy] ](https://practice.geeksforgeeks.org/problems/maximize-dot-product/0/)
+* [Maximize Dot Product [DP] [Greedy] ](https://practice.geeksforgeeks.org/problems/maximize-dot-product/0/) , [Solution[DP]](https://github.com/TheSYNcoder/InterviewPrep/blob/master/Solutions/Maximize%20Dot%20Product.cpp)
