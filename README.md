@@ -15,4 +15,4 @@ A repository containing link of good interview questions
 
 * [Transform String [String][Two Pointer] ](https://practice.geeksforgeeks.org/problems/transform-string/0)
 * [Maximize Dot Product [DP] [Greedy] ](https://practice.geeksforgeeks.org/problems/maximize-dot-product/0/) , [Solution[DP]](https://github.com/TheSYNcoder/InterviewPrep/blob/master/Solutions/Maximize%20Dot%20Product.cpp)
-* [Next Greater Palindrome] [Adhoc][Math](https://www.geeksforgeeks.org/given-a-number-find-next-smallest-palindrome-larger-than-this-number/)
+* [Next Greater Palindrome [Adhoc][Math]](https://www.geeksforgeeks.org/given-a-number-find-next-smallest-palindrome-larger-than-this-number/)
