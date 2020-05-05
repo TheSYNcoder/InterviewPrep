@@ -18,3 +18,4 @@ A repository containing link of good interview questions
 * [Maximize Dot Product [DP] [Greedy] ](https://practice.geeksforgeeks.org/problems/maximize-dot-product/0/) , [Solution[DP]](https://github.com/TheSYNcoder/InterviewPrep/blob/master/Solutions/Maximize%20Dot%20Product.cpp)
 * [Next Greater Palindrome [Adhoc][Math] ](https://www.geeksforgeeks.org/given-a-number-find-next-smallest-palindrome-larger-than-this-number/)
 * [Jumping Numbers [Recursion] ](https://practice.geeksforgeeks.org/problems/jumping-numbers/0) , [Solution](https://github.com/TheSYNcoder/InterviewPrep/blob/master/Solutions/JumpingNumbers.cpp)
+* [Find Sum of K Smallest Element in BST](https://www.geeksforgeeks.org/sum-k-smallest-elements-bst/)
