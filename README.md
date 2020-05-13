@@ -19,3 +19,8 @@ A repository containing link of good interview questions
 * [Next Greater Palindrome [Adhoc][Math] ](https://www.geeksforgeeks.org/given-a-number-find-next-smallest-palindrome-larger-than-this-number/)
 * [Jumping Numbers [Recursion] ](https://practice.geeksforgeeks.org/problems/jumping-numbers/0) , [Solution](https://github.com/TheSYNcoder/InterviewPrep/blob/master/Solutions/JumpingNumbers.cpp)
 * [Find Sum of K Smallest Element in BST[Augmented DS]](https://www.geeksforgeeks.org/sum-k-smallest-elements-bst/)
+
+## AIBOHPHOBIA
+##### palindromes duh
+
+* [Closest palindrome](https://practice.geeksforgeeks.org/problems/closest-palindrome/0) , [Solution](https://github.com/TheSYNcoder/InterviewPrep/blob/master/Solutions/Closest%20Palindrome.cpp)
