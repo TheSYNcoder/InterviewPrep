@@ -20,7 +20,7 @@ A repository containing link of good interview questions
 * [Next Greater Palindrome [Adhoc][Math] ](https://www.geeksforgeeks.org/given-a-number-find-next-smallest-palindrome-larger-than-this-number/)
 * [Jumping Numbers [Recursion] ](https://practice.geeksforgeeks.org/problems/jumping-numbers/0) , [Solution](https://github.com/TheSYNcoder/InterviewPrep/blob/master/Solutions/JumpingNumbers.cpp)
 * [Find Sum of K Smallest Element in BST[Augmented DS]](https://www.geeksforgeeks.org/sum-k-smallest-elements-bst/)
-* [Painters Problem[Binary Search]](https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages/0)
+* [Painters Problem [Binary Search]](https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages/0)
 
 ## AIBOHPHOBIA
 ##### palindromes duh
