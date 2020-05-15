@@ -24,6 +24,7 @@ A repository containing link of good interview questions
 ##### palindromes duh
 
 * [Closest palindrome](https://practice.geeksforgeeks.org/problems/closest-palindrome/0) , [Solution](https://github.com/TheSYNcoder/InterviewPrep/blob/master/Solutions/Closest%20Palindrome.cpp)
+* [Valid Palindrome 2](https://leetcode.com/problems/valid-palindrome-ii/)
 
 
 ## System Design
