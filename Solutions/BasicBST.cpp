@@ -47,3 +47,26 @@ Node *deleteNode(Node *root,  int x)
     }
     return root;
 }
+
+
+/**
+*
+*Predecessor and Successor of a node
+*
+*/
+
+void findPreSuc(Node* root, Node*& pre, Node*& succ, int key)
+{
+    // preorder traversal
+    if (!root) return ;
+    findPreSuc( root->left , pre , succ , key);
+    // take the last node in the traversal
+    if ( root->data < key) pre = root;
+    // take the first node more than key 
+    if ( root->data > key && !succ) succ = root;
+    findPreSuc( root->right , pre, succ , key);
+}
+
+
+
+
