@@ -14,6 +14,7 @@ A repository containing link of good interview questions
 * [Maximum circular subarray sum](https://leetcode.com/problems/maximum-sum-circular-subarray/) , [Solution](https://github.com/TheSYNcoder/InterviewPrep/blob/master/Solutions/Maximum%20Circular%20Subarray.cpp)
 * [detect cycle in a linked list](https://leetcode.com/problems/linked-list-cycle-ii/) , [Solution](https://github.com/TheSYNcoder/InterviewPrep/blob/master/Solutions/FloydLoopDetection.cpp)
 * [NGE](https://leetcode.com/problems/next-greater-node-in-linked-list/)
+* [Deep Copy Linked List](https://leetcode.com/problems/copy-list-with-random-pointer/)
 
 ## Geeks For Geeks
 
