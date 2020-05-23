@@ -27,6 +27,7 @@ A repository containing link of good interview questions
 * [Painters Problem [Binary Search]](https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages/0)
 * [A post order addition BST ](https://practice.geeksforgeeks.org/problems/add-all-greater-values-to-every-node-in-a-bst/1/)
 * [Basic BST Operations](https://github.com/TheSYNcoder/InterviewPrep/blob/master/Solutions/BasicBST.cpp)
+* [K-different subarrays](https://leetcode.com/articles/subarrays-with-k-different-integers/)
 
 
 ## AIBOHPHOBIA
