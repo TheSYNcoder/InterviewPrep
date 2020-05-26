@@ -13,6 +13,7 @@ public:
 
 
 Node* clone(Node* head){
+    if(head == NULL) return NULL;
     
     Node* travellingPtr = head;
 
