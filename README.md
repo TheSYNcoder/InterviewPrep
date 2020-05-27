@@ -45,3 +45,8 @@ A repository containing link of good interview questions
 ## System Design
 
 * [A curated list](https://github.com/shashank88/system_design)
+
+## Articles 
+
+* [DP Article](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns)
+* [Another DP article](https://leetcode.com/discuss/general-discussion/651719/how-to-solve-dp-string-template-and-4-steps-to-be-followed)
