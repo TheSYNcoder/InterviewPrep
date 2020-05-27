@@ -29,7 +29,7 @@ A repository containing link of good interview questions
 * [A post order addition BST ](https://practice.geeksforgeeks.org/problems/add-all-greater-values-to-every-node-in-a-bst/1/)
 * [Probability of Knight [Dp] ](https://practice.geeksforgeeks.org/problems/probability-of-knight/0)
 * [Basic BST Operations](https://github.com/TheSYNcoder/InterviewPrep/blob/master/Solutions/BasicBST.cpp)
-* [Minimum Element Stack](https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1), [Solution]
+* [Minimum Element Stack](https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1), [Solution](https://github.com/TheSYNcoder/InterviewPrep/blob/master/Solutions/minElementStack.cpp)
 
 
 
