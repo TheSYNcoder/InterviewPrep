@@ -17,7 +17,7 @@ A repository containing link of good interview questions
 * [Deep Copy Linked List](https://leetcode.com/problems/copy-list-with-random-pointer/), [Solution](https://github.com/TheSYNcoder/InterviewPrep/blob/master/Solutions/DeepCopyLL.cpp)
 * [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/),[Solution](https://github.com/TheSYNcoder/InterviewPrep/blob/master/Solutions/reducing-dishes.cpp)
 * [K-different subarrays](https://leetcode.com/articles/subarrays-with-k-different-integers/)
-* [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) , [Solution]()
+* [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) , [Solution](https://github.com/TheSYNcoder/InterviewPrep/blob/master/Solutions/Possible%20Bipartition.cpp)
 
 ## Geeks For Geeks
 
