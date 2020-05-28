@@ -52,4 +52,5 @@ A repository containing link of good interview questions
 ## Articles 
 
 * [DP Article](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns)
-* [Another DP article](https://leetcode.com/discuss/general-discussion/651719/how-to-solve-dp-string-template-and-4-steps-to-be-followed)
+* [Another DP article on Strings](https://leetcode.com/discuss/general-discussion/651719/how-to-solve-dp-string-template-and-4-steps-to-be-followed)
+
