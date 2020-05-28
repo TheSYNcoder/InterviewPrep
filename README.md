@@ -19,6 +19,7 @@ A repository containing link of good interview questions
 * [K-different subarrays](https://leetcode.com/articles/subarrays-with-k-different-integers/)
 * [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) , [Solution](https://github.com/TheSYNcoder/InterviewPrep/blob/master/Solutions/Possible%20Bipartition.cpp)
 * [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences-ii/)
+* [Minimum Cost for Tickets [DP] ](https://leetcode.com/problems/minimum-cost-for-tickets/)
 
 
 ## Geeks For Geeks
