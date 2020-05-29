@@ -49,9 +49,14 @@ A repository containing link of good interview questions
 ## System Design
 
 * [A curated list](https://github.com/shashank88/system_design)
+* [Good Articles](https://github.com/checkcheckzz/system-design-interview)
 
 ## Articles 
 
 * [DP Article](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns)
 * [Another DP article on Strings](https://leetcode.com/discuss/general-discussion/651719/how-to-solve-dp-string-template-and-4-steps-to-be-followed)
+* [Tree Problems on Leetcode](https://leetcode.com/list/x1dyagvv/)
+* [Graph Related Problems on Leetcode](https://leetcode.com/list/x1vj23fh/)
+* [Graph Article](https://leetcode.com/discuss/general-discussion/655708/graph-problems-for-beginners-practice-problems-and-sample-solutions)
+* [CS notes](https://github.com/darshanime/notes/)
 
