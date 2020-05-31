@@ -1,5 +1,5 @@
 # InterviewPrep
-A repository containing link of good interview questions
+A repository containing link of good interview questions.
 
 
 ## Leetcode
@@ -20,6 +20,9 @@ A repository containing link of good interview questions
 * [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) , [Solution](https://github.com/TheSYNcoder/InterviewPrep/blob/master/Solutions/Possible%20Bipartition.cpp)
 * [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences-ii/)
 * [Minimum Cost for Tickets [DP] ](https://leetcode.com/problems/minimum-cost-for-tickets/)
+* [Valid perfect square [Bin Search]](https://leetcode.com/problems/valid-perfect-square/). [Solution](Solutions/is_perfect_square.cpp) (Little tricky implementation)
+* [Triangle [DP]](https://leetcode.com/problems/triangle/). [Solution](Solutions/triangle.cpp)
+* [Dungeon Game [DP, BS]](https://leetcode.com/problems/dungeon-game/). [Solution](Solutions/Dungeon_game.cpp)
 
 
 ## Geeks For Geeks
