@@ -1,43 +1,38 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+//The solution basically uses the concept of graph coloring
+// 0: node has not been visited
+// 2: node is in processing mode
+// 1: node has allready been processed
+
 class Solution {
 private:
-   // using bfs
-    bool isBipartite(vector<vector<int>>&adj,int N,int node,vector<int>&color){
-        queue<int>q;
-        q.push(node);
-        color[node]=1;
-        while(!q.empty()){
-            int curr=q.front();
-            q.pop();
-            for(int ele:adj[curr]){
-                if(color[ele] == color[curr]){ //bipartite cannot have two adjacent nodes of same color
-                    return false;
-                }
-                if(color[ele]==-1){
-                    color[ele]=1-color[curr];
-                    q.push(ele);
-                }
+    bool isCyclic(vector<vector<int>>&adj,vector<int>&visited,int current){
+        if(visited[current]==2)
+            return true;
+        visited[current]=2;
+        for(int i=0;i<adj[current].size();i++){
+            if(visited[adj[current][i]]!=1){
+                if(isCyclic(adj,visited,adj[current][i]))
+                    return true;
             }
         }
-      return true;
+        visited[current]=1;
+        return false;
     }
 public:
-    bool possibleBipartition(int N, vector<vector<int>>& dislikes) {
-        //Making adjacency list
-        vector<vector<int>>adj(N+1);
-        for(int i=0;i<dislikes.size();i++){
-            adj[dislikes[i][0]].push_back(dislikes[i][1]);
-            adj[dislikes[i][1]].push_back(dislikes[i][0]);
+    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+        vector<vector<int>>adj(numCourses);
+        for(int i=0;i<prerequisites.size();i++){
+            adj[prerequisites[i][0]].push_back(prerequisites[i][1]);
         }
-        // a color array
-        // -1:not visited, 1: denotes first color set, 0: denotes second color set
-        vector<int>color(N+1,-1);
-        for(int i=0;i<N;i++){
-            if(color[i]==-1){
-                if(!isBipartite(adj,N,i,color))
+        vector<int>visited(numCourses,0);
+        for(int i=0;i<numCourses;i++){
+            if(visited[i]==0){
+                if(isCyclic(adj,visited,i)){
                     return false;
+                }
             }
         }
         return true;
