@@ -1,6 +1,11 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+//The solution basically uses the concept of graph coloring
+// 0: node has not been visited
+// 2: node is in processing mode
+// 1: node has allready been processed
+
 class Solution {
 private:
     bool isCyclic(vector<vector<int>>&adj,vector<int>&visited,int current){
