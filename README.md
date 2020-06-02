@@ -37,6 +37,7 @@ A repository containing link of good interview questions.
 * [Probability of Knight [Dp] ](https://practice.geeksforgeeks.org/problems/probability-of-knight/0)
 * [Basic BST Operations](https://github.com/TheSYNcoder/InterviewPrep/blob/master/Solutions/BasicBST.cpp)
 * [Minimum Element Stack](https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1), [Solution](https://github.com/TheSYNcoder/InterviewPrep/blob/master/Solutions/minElementStack.cpp)
+* [Generate binary numbers in O(n)](https://practice.geeksforgeeks.org/problems/generate-binary-numbers/0), [Solution](https://github.com/TheSYNcoder/InterviewPrep/blob/master/Solutions/generatebinQueue.cpp)
 
 
 
