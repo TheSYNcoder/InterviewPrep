@@ -18,6 +18,8 @@ A repository containing link of good interview questions.
 * [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/),[Solution](https://github.com/TheSYNcoder/InterviewPrep/blob/master/Solutions/reducing-dishes.cpp)
 * [K-different subarrays](https://leetcode.com/articles/subarrays-with-k-different-integers/)
 * [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) , [Solution](https://github.com/TheSYNcoder/InterviewPrep/blob/master/Solutions/Possible%20Bipartition.cpp)
+* [Course Schedule](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3344/), [Solution](https://github.com/TheSYNcoder/InterviewPrep/blob/master/Solutions/Course_Schedule.cpp)
+* [Russian Doll Envelope](https://leetcode.com/problems/russian-doll-envelopes/), [Solution](https://github.com/TheSYNcoder/InterviewPrep/blob/master/Solutions/Russian_Doll_Envelope.cpp)
 * [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences-ii/)
 * [Minimum Cost for Tickets [DP] ](https://leetcode.com/problems/minimum-cost-for-tickets/)
 * [Valid perfect square [Bin Search]](https://leetcode.com/problems/valid-perfect-square/). [Solution](Solutions/is_perfect_square.cpp) (Little tricky implementation)
