@@ -23,6 +23,7 @@ A repository containing link of good interview questions.
 * [Valid perfect square [Bin Search]](https://leetcode.com/problems/valid-perfect-square/). [Solution](Solutions/is_perfect_square.cpp) (Little tricky implementation)
 * [Triangle [DP]](https://leetcode.com/problems/triangle/). [Solution](Solutions/triangle.cpp)
 * [Dungeon Game [DP, BS]](https://leetcode.com/problems/dungeon-game/). [Solution](Solutions/Dungeon_game.cpp)
+* [Split Array and minimize largest sum](https://leetcode.com/problems/split-array-largest-sum/), [Solution](Solutions/subarryminmax.cpp)
 
 
 ## Geeks For Geeks
@@ -38,7 +39,6 @@ A repository containing link of good interview questions.
 * [Basic BST Operations](https://github.com/TheSYNcoder/InterviewPrep/blob/master/Solutions/BasicBST.cpp)
 * [Minimum Element Stack](https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1), [Solution](https://github.com/TheSYNcoder/InterviewPrep/blob/master/Solutions/minElementStack.cpp)
 * [Generate binary numbers in O(n)](https://practice.geeksforgeeks.org/problems/generate-binary-numbers/0), [Solution](https://github.com/TheSYNcoder/InterviewPrep/blob/master/Solutions/generatebinQueue.cpp)
-
 
 
 
