@@ -26,6 +26,7 @@ A repository containing link of good interview questions.
 * [Triangle [DP]](https://leetcode.com/problems/triangle/). [Solution](Solutions/triangle.cpp)
 * [Dungeon Game [DP, BS]](https://leetcode.com/problems/dungeon-game/). [Solution](Solutions/Dungeon_game.cpp)
 * [Split Array and minimize largest sum](https://leetcode.com/problems/split-array-largest-sum/), [Solution](Solutions/subarryminmax.cpp)
+* [Permutation Sequence]() , [Solution](Solutions/pseq.cpp)
 
 
 ## Geeks For Geeks
