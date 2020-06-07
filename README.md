@@ -65,4 +65,6 @@ A repository containing link of good interview questions.
 * [Graph Related Problems on Leetcode](https://leetcode.com/list/x1vj23fh/)
 * [Graph Article](https://leetcode.com/discuss/general-discussion/655708/graph-problems-for-beginners-practice-problems-and-sample-solutions)
 * [CS notes](https://github.com/darshanime/notes/)
+* [CS general](https://zero1code.info/)
+* [All articles on Leetcode](https://leetcode.com/discuss/general-discussion/665604/important-and-useful-links-from-all-over-the-leetcode)
 
