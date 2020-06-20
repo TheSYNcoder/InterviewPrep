@@ -22,7 +22,7 @@ A repository containing link of good interview questions.
 * [Russian Doll Envelope](https://leetcode.com/problems/russian-doll-envelopes/), [Solution](Solutions/Russian_Doll_Envelope.cpp)
 * [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences-ii/)
 * [Minimum Cost for Tickets [DP] ](https://leetcode.com/problems/minimum-cost-for-tickets/)
-* [Valid perfect square [Bin Search]](https://leetcode.com/problems/valid-perfect-square/). [Solution](Solutions/is_perfect_square.cpp) (Little tricky implementation)
+* [Valid perfect square [Bin Search]](https://leetcode.com/problems/valid-perfect-square/). [Solution](Solutions/is_perfect_square.cpp)
 * [Triangle [DP]](https://leetcode.com/problems/triangle/). [Solution](Solutions/triangle.cpp)
 * [Dungeon Game [DP, BS]](https://leetcode.com/problems/dungeon-game/). [Solution](Solutions/Dungeon_game.cpp)
 * [Split Array and minimize largest sum](https://leetcode.com/problems/split-array-largest-sum/), [Solution](Solutions/subarryminmax.cpp)
