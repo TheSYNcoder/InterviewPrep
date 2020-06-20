@@ -27,7 +27,7 @@ A repository containing link of good interview questions.
 * [Dungeon Game [DP, BS]](https://leetcode.com/problems/dungeon-game/). [Solution](Solutions/Dungeon_game.cpp)
 * [Split Array and minimize largest sum](https://leetcode.com/problems/split-array-largest-sum/), [Solution](Solutions/subarryminmax.cpp)
 * [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) , [Solution](Solutions/pseq.cpp)
-* [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring , [Solution](Solutions/LongDup.cpp)
+* [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring) , [Solution](Solutions/LongDup.cpp)
 
 
 ## Geeks For Geeks
