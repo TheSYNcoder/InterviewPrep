@@ -44,10 +44,13 @@ A repository containing link of good interview questions.
 * [Minimum Element Stack](https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1), [Solution](Solutions/minElementStack.cpp)
 * [Generate binary numbers in O(n)](https://practice.geeksforgeeks.org/problems/generate-binary-numbers/0), [Solution](Solutions/generatebinQueue.cpp)
 * [Find out the intersection of 2 linked lists](https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1)
-* [Left view of a binary tree](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1), [Solution](Solutions/leftview.cpp)(test cases provided by gfg are very weak, refer to solution)
+* [Left view of a binary tree](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1), [Solution](Solutions/leftview.cpp)
 * [Total decoding messages](https://practice.geeksforgeeks.org/problems/total-decoding-messages/0), [Solution](Solutions/totaldecoding.cpp)
 
 
+## Comapany Wise Questions
+
+* [Amazon](ComapanyWise/Amazon.md)
 
 
 ## AIBOHPHOBIA
