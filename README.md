@@ -47,6 +47,10 @@ A repository containing link of good interview questions.
 * [Left view of a binary tree](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1), [Solution](Solutions/leftview.cpp)
 * [Total decoding messages](https://practice.geeksforgeeks.org/problems/total-decoding-messages/0), [Solution](Solutions/totaldecoding.cpp)
 
+## Topic Wise Questions
+
+* [DP](Topic/DP.md)
+
 
 ## Comapany Wise Questions
 
