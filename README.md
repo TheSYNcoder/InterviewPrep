@@ -50,7 +50,7 @@ A repository containing link of good interview questions.
 
 ## Comapany Wise Questions
 
-* [Amazon](ComapanyWise/Amazon.md)
+* [Amazon](https://github.com/TheSYNcoder/InterviewPrep/blob/master/CompanyWise/Amazon.md)
 
 
 ## AIBOHPHOBIA
