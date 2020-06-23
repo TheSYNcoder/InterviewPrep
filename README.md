@@ -55,6 +55,7 @@ A repository containing link of good interview questions.
 ## Comapany Wise Questions
 
 * [Amazon](https://github.com/TheSYNcoder/InterviewPrep/blob/master/CompanyWise/Amazon.md)
+* [Bit manipulation](Topic/Bitwise.md)
 
 
 ## AIBOHPHOBIA
