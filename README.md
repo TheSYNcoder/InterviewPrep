@@ -28,6 +28,7 @@ A repository containing link of good interview questions.
 * [Split Array and minimize largest sum](https://leetcode.com/problems/split-array-largest-sum/), [Solution](Solutions/subarryminmax.cpp)
 * [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) , [Solution](Solutions/pseq.cpp)
 * [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring) , [Solution](Solutions/LongDup.cpp)
+* [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/), [Eulars path](http://www.graph-magics.com/articles/euler.php), [Blog](https://leetcode.com/problems/reconstruct-itinerary/discuss/709590/Python-Short-Euler-Path-Finding-O(E-%2B-V)-explained.)
 
 
 ## Geeks For Geeks
