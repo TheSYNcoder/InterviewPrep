@@ -52,20 +52,13 @@ A repository containing link of good interview questions.
 
 * [DP](Topic/DP.md)
 * [Bit manipulation](Topic/Bitwise.md)
+* [Palindromes are LIT](Topic/Palindromes.md)
 
 ## Company Wise Questions
 
 * [Amazon](https://github.com/TheSYNcoder/InterviewPrep/blob/master/CompanyWise/Amazon.md)
 * [Google](CompanyWise/Google.md)
 
-
-
-## AIBOHPHOBIA
-##### palindromes duh
-
-* [Closest palindrome](https://practice.geeksforgeeks.org/problems/closest-palindrome/0) , [Solution](Solutions/Closest%20Palindrome.cpp)
-* [Valid Palindrome 2](https://leetcode.com/problems/valid-palindrome-ii/)
-* [Palindromic Array](https://practice.geeksforgeeks.org/problems/palindromic-array/0),[Solution](Solutions/PalindromicArray.cpp)
 
 
 ## System Design
