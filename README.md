@@ -53,7 +53,7 @@ A repository containing link of good interview questions.
 * [DP](Topic/DP.md)
 * [Bit manipulation](Topic/Bitwise.md)
 
-## Comapany Wise Questions
+## Company Wise Questions
 
 * [Amazon](https://github.com/TheSYNcoder/InterviewPrep/blob/master/CompanyWise/Amazon.md)
 * [Google](CompanyWise/Google.md)
