@@ -53,6 +53,8 @@ A repository containing link of good interview questions.
 * [DP](Topic/DP.md)
 * [Bit manipulation](Topic/Bitwise.md)
 * [Palindromes are LIT](Topic/Palindromes.md)
+* [Binary Search Trees](Topic/BST.md)
+* [Graph](Topic/Graph.md)
 
 ## Company Wise Questions
 
