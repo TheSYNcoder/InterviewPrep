@@ -55,6 +55,7 @@ A repository containing link of good interview questions.
 * [Palindromes are LIT](Topic/Palindromes.md)
 * [Binary Search Trees](Topic/BST.md)
 * [Graph](Topic/Graph.md)
+* [Trie](Topic/Trie.md)
 
 ## Company Wise Questions
 
