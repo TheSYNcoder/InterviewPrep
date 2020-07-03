@@ -2,51 +2,11 @@
 A repository containing link of good interview questions.
 
 
-## Leetcode
+## Sites
 
-* [Valid Paranthesis](https://leetcode.com/problems/valid-parentheses/), [solution](Solutions/ValidParanthesis.cpp)
-* [Maximal Square [DP]](https://leetcode.com/problems/maximal-square/) ,  [solution](Solutions/MaximalSquare.cpp)
-* [Diameter of a Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
-* [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
-* [Binary Tree Check if valid sequence from root to leaf](https://thefellowprogrammer.blogspot.com/2020/04/check-if-string-is-valid-sequence-from.html)
-* [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
-* [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)
-* [Maximum circular subarray sum](https://leetcode.com/problems/maximum-sum-circular-subarray/) , [Solution](Solutions/Maximum%20Circular%20Subarray.cpp)
-* [detect cycle in a linked list](https://leetcode.com/problems/linked-list-cycle-ii/) , [Solution](Solutions/FloydLoopDetection.cpp)
-* [NGE](https://leetcode.com/problems/next-greater-node-in-linked-list/)
-* [Deep Copy Linked List](https://leetcode.com/problems/copy-list-with-random-pointer/), [Solution](Solutions/DeepCopyLL.cpp)
-* [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/),[Solution](Solutions/reducing-dishes.cpp)
-* [K-different subarrays](https://leetcode.com/articles/subarrays-with-k-different-integers/)
-* [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) , [Solution](Solutions/Possible%20Bipartition.cpp)
-* [Course Schedule](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3344/), [Solution](Solutions/Course_Schedule.cpp)
-* [Russian Doll Envelope](https://leetcode.com/problems/russian-doll-envelopes/), [Solution](Solutions/Russian_Doll_Envelope.cpp)
-* [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences-ii/)
-* [Minimum Cost for Tickets [DP] ](https://leetcode.com/problems/minimum-cost-for-tickets/)
-* [Valid perfect square [Bin Search]](https://leetcode.com/problems/valid-perfect-square/). [Solution](Solutions/is_perfect_square.cpp)
-* [Triangle [DP]](https://leetcode.com/problems/triangle/). [Solution](Solutions/triangle.cpp)
-* [Dungeon Game [DP, BS]](https://leetcode.com/problems/dungeon-game/). [Solution](Solutions/Dungeon_game.cpp)
-* [Split Array and minimize largest sum](https://leetcode.com/problems/split-array-largest-sum/), [Solution](Solutions/subarryminmax.cpp)
-* [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) , [Solution](Solutions/pseq.cpp)
-* [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring) , [Solution](Solutions/LongDup.cpp)
-* [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/), [Eulars path](http://www.graph-magics.com/articles/euler.php), [Blog](https://leetcode.com/problems/reconstruct-itinerary/discuss/709590/Python-Short-Euler-Path-Finding-O(E-%2B-V)-explained.)
-
-
-## Geeks For Geeks
-
-* [Transform String [String][Two Pointer] ](https://practice.geeksforgeeks.org/problems/transform-string/0)
-* [Maximize Dot Product [DP] [Greedy] ](https://practice.geeksforgeeks.org/problems/maximize-dot-product/0/) , [Solution[DP]](Solutions/Maximize%20Dot%20Product.cpp)
-* [Next Greater Palindrome [Adhoc][Math] ](https://www.geeksforgeeks.org/given-a-number-find-next-smallest-palindrome-larger-than-this-number/)
-* [Jumping Numbers [Recursion] ](https://practice.geeksforgeeks.org/problems/jumping-numbers/0) , [Solution](Solutions/JumpingNumbers.cpp)
-* [Find Sum of K Smallest Element in BST[Augmented DS]](https://www.geeksforgeeks.org/sum-k-smallest-elements-bst/)
-* [Painters Problem [Binary Search]](https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages/0)
-* [A post order addition BST ](https://practice.geeksforgeeks.org/problems/add-all-greater-values-to-every-node-in-a-bst/1/)
-* [Probability of Knight [Dp] ](https://practice.geeksforgeeks.org/problems/probability-of-knight/0)
-* [Basic BST Operations](Solutions/BasicBST.cpp)
-* [Minimum Element Stack](https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1), [Solution](Solutions/minElementStack.cpp)
-* [Generate binary numbers in O(n)](https://practice.geeksforgeeks.org/problems/generate-binary-numbers/0), [Solution](Solutions/generatebinQueue.cpp)
-* [Find out the intersection of 2 linked lists](https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1)
-* [Left view of a binary tree](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1), [Solution](Solutions/leftview.cpp)
-* [Total decoding messages](https://practice.geeksforgeeks.org/problems/total-decoding-messages/0), [Solution](Solutions/totaldecoding.cpp)
+* [Leetcode](Sites/Leetcode.md)
+* [Geeks for Geeks](Sites/Geeks for Geeks.md)
+* [Hackerrank](Sites/hackerrank.md)
 
 ## Topic Wise Questions
 
