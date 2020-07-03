@@ -5,7 +5,7 @@ A repository containing link of good interview questions.
 ## Sites
 
 * [Leetcode](Sites/Leetcode.md)
-* [Geeks for Geeks](Sites/Geeks for Geeks.md)
+* [Geeks for Geeks](Sites/GFG.md)
 * [Hackerrank](Sites/hackerrank.md)
 
 ## Topic Wise Questions
