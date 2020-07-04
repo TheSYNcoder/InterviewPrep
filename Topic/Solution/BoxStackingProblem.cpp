@@ -15,12 +15,15 @@ public:
     }
 };
 
+
 int solution(vector<vector<int>>& boxes){
     int n = boxes.size();
     vector<int> lis(n, 1);
 
     SortCriterion check;
+
     sort(boxes.begin(), boxes.end(), check);
+
 
     for(int i = 1; i < n; i++)
         for(int j = 0; j < i; j++)
