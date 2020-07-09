@@ -2,7 +2,7 @@
 
 * [Two Sum](https://leetcode.com/problems/two-sum)
 * [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
-* [3Sum](https://leetcode.com/problems/3sum)
+* [3Sum](https://leetcode.com/problems/3sum), [Solution](Solution/3sum.cpp)
 * [Merge Two Sorted Lists ](https://leetcode.com/problems/merge-two-sorted-lists)
 * [Merge k Sorted Lists ](https://leetcode.com/problems/merge-k-sorted-lists)
 * [Trapping Rain Water ](https://leetcode.com/problems/trapping-rain-water)
