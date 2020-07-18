@@ -41,5 +41,6 @@ A repository containing link of good interview questions.
 * [CS notes](https://github.com/darshanime/notes/)
 * [CS general](https://zero1code.info/)
 * [All articles on Leetcode](https://leetcode.com/discuss/general-discussion/665604/important-and-useful-links-from-all-over-the-leetcode)
+* [Top K elements](https://leetcode.com/articles/top-k-frequent-elements/)
 
 
