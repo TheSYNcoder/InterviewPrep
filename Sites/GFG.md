@@ -15,3 +15,5 @@
 * [Find out the intersection of 2 linked lists](https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1)
 * [Left view of a binary tree](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1), [Solution](../Solutions/leftview.cpp)
 * [Total decoding messages](https://practice.geeksforgeeks.org/problems/total-decoding-messages/0), [Solution](../Solutions/totaldecoding.cpp)
+* [EggFloor Problem[DP]](https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle/0), [GFG Solution](https://www.geeksforgeeks.org/egg-dropping-puzzle-dp-11/#:~:text=The%20solution%20is%20to%20try,be%20part%20of%20the%20solution.), [Nice Visualization](https://www.youtube.com/watch?v=KVfxgpI3Tv0)
+* [Max Area Under a histogram](https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram/0), [Solution](https://github.com/Soumalya1857/Dump/blob/master/GFG/areaInhostogram.cpp)
