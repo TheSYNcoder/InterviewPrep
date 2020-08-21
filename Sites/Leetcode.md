@@ -26,4 +26,9 @@
 * [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) , [Solution](../Solutions/pseq.cpp)
 * [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring) , [Solution](../Solutions/LongDup.cpp)
 * [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/), [Eulars path](http://www.graph-magics.com/articles/euler.php), [Blog](https://leetcode.com/problems/reconstruct-itinerary/discuss/709590/Python-Short-Euler-Path-Finding-O(E-%2B-V)-explained.)
+<<<<<<< HEAD
 * [Odd Even Jumps](https://leetcode.com/problems/odd-even-jump/submissions/), [Solution](../Solutions/oddevenjump.cpp)
+=======
+* [Best Time to Buy and sell stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/), [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/discuss/794684/2-Solutions-or-DandC-or-State-Machine-O(n)-time-O(1)-space)
+* [Non Overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/), [Solution](https://leetcode.com/problems/non-overlapping-intervals/discuss/792771/Algorithm-Explained-or-Example-Dry-Run-or-Easy-to-Understand)
+>>>>>>> 69d8bdc40a652ad9f1676c089698fe60914398f0
