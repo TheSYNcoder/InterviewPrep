@@ -29,3 +29,4 @@
 * [Odd Even Jumps](https://leetcode.com/problems/odd-even-jump/submissions/), [Solution](../Solutions/oddevenjump.cpp)
 * [Best Time to Buy and sell stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/), [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/discuss/794684/2-Solutions-or-DandC-or-State-Machine-O(n)-time-O(1)-space)
 * [Non Overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/), [Solution](https://leetcode.com/problems/non-overlapping-intervals/discuss/792771/Algorithm-Explained-or-Example-Dry-Run-or-Easy-to-Understand)
+* [Find median of two sorted arrays using binary search](https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/), [Solution](../Solutions/median_2_sorted_array.cpp)
