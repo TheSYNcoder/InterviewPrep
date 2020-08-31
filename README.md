@@ -16,6 +16,7 @@ A repository containing link of good interview questions.
 * [Binary Search Trees](Topic/BST.md)
 * [Graph](Topic/Graph.md)
 * [Trie](Topic/Trie.md)
+* [Puzzles](https://github.com/TheSYNcoder/InterviewPrep/blob/master/puzzle.md)
 
 ## Company Wise Questions
 
