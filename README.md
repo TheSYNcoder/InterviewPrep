@@ -17,6 +17,7 @@ A repository containing link of good interview questions.
 * [Graph](Topic/Graph.md)
 * [Trie](Topic/Trie.md)
 * [Puzzles](https://github.com/TheSYNcoder/InterviewPrep/blob/master/puzzle.md)
+* [String](Topic/String.md)
 
 ## Company Wise Questions
 
