@@ -24,6 +24,7 @@ A repository containing link of good interview questions.
 * [Amazon](https://github.com/TheSYNcoder/InterviewPrep/blob/master/CompanyWise/Amazon.md)
 * [Google](CompanyWise/Google.md)
 * [D E Shaw](CompanyWise/DEShaw.md)
+* [Microsoft](CompanyWise/Microsoft.md)
 
 
 
