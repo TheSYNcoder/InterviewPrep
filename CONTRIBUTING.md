@@ -8,6 +8,22 @@ Steps
 to the solution folder of the corresponding topic. 
 * Create the pull request.
 
+### Precautions
+
+* Do not change structure of the main README.md file ( do not add extra sections ).
+* The project folder structure , *all files should be arranged considering the format*.
+```
+
+
+FolderTopic
+|
+---- Problems.md ( containing links to problems and solutions, if applicable )
+---- Solutions
+      |
+      |
+      ----- containing solution files ( maybe file.cpp or file.py )
+
+```
 
 #### NEW
 Participate in [Hacktoberfest](https://hacktoberfest.digitalocean.com/). Add new and interesting problems and contribute to our repository.   
