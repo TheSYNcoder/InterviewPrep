@@ -32,3 +32,5 @@
 * [Find median of two sorted arrays using binary search](https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/), [Solution](../Solutions/median_2_sorted_array.cpp)
 * [Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/) [Solution](../Solutions/LC1526.cpp)
 * [Counting Bits](https://leetcode.com/problems/counting-bits/) , [Solution](../Solutions/CountingBits.cpp)
+* [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) , [Solution](../Solutions/FindMedianFromDataStream.cpp)
+* [4 Sum](https://leetcode.com/problems/4sum/) , [Solution](../Solutions/4Sum.cpp)
