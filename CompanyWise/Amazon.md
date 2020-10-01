@@ -1,5 +1,8 @@
 # Amazon
 
+### Bonus
+For questions asked in Jadavpur University on Campus 2019 onwards - [Campus Round Details](https://docs.google.com/document/d/1Lw3LSdzagYLP_VhGIitA4UWGz5rAWi2p31KqjxlC0tk/edit)
+
 * [Two Sum](https://leetcode.com/problems/two-sum)
 * [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
 * [3Sum](https://leetcode.com/problems/3sum), [Solution](Solution/3sum.cpp)

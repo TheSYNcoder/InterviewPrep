@@ -1,5 +1,7 @@
 # InterviewPrep
 A repository containing link of good interview questions.
+We are a team of students from [Jadavpur University](http://www.jaduniv.edu.in/) and share questions we faced during our interview preparation and during our
+interviews.
 
 Want to contribute to Interview Prep : Please have a look at our [contributing guidelines](./CONTRIBUTING.md)
 
@@ -22,7 +24,7 @@ Want to contribute to Interview Prep : Please have a look at our [contributing g
 
 ## Company Wise Questions
 
-* [Amazon](https://github.com/TheSYNcoder/InterviewPrep/blob/master/CompanyWise/Amazon.md)
+* [Amazon](https://github.com/TheSYNcoder/InterviewPrep/blob/master/CompanyWise/Amazon.md) -> ( On campus details added )
 * [Google](CompanyWise/Google.md)
 * [D E Shaw](CompanyWise/DEShaw.md)
 * [Microsoft](CompanyWise/Microsoft.md)
@@ -48,8 +50,6 @@ Want to contribute to Interview Prep : Please have a look at our [contributing g
 * [CS general](https://zero1code.info/)
 * [All articles on Leetcode](https://leetcode.com/discuss/general-discussion/665604/important-and-useful-links-from-all-over-the-leetcode)
 * [Top K elements](https://leetcode.com/articles/top-k-frequent-elements/)
-* [Article on Google Online Assessment Questions](https://leetcode.com/discuss/interview-question/352460/Google-Online-Assessment-Questions)
-* [How to find Next Lexicographical Permutation](https://www.nayuki.io/page/next-lexicographical-permutation-algorithm)
-* [All Questions solved by Aritra Sen for Google Interview](https://github.com/aritra-sen/DSA-Practice)
+* [More Dsa Interview questions](https://github.com/aritra-sen/DSA-Practice)
 
 
