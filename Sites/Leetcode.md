@@ -34,3 +34,4 @@
 * [Counting Bits](https://leetcode.com/problems/counting-bits/) , [Solution](../Solutions/CountingBits.cpp)
 * [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) , [Solution](../Solutions/FindMedianFromDataStream.cpp)
 * [4 Sum](https://leetcode.com/problems/4sum/) , [Solution](../Solutions/4Sum.cpp)
+* [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/) , [Solution](../Solutions/2KeysKeyboard.cpp)
