@@ -24,7 +24,7 @@ Want to contribute to Interview Prep : Please have a look at our [contributing g
 
 ## Company Wise Questions
 
-* [Amazon](https://github.com/TheSYNcoder/InterviewPrep/blob/master/CompanyWise/Amazon.md)
+* [Amazon](https://github.com/TheSYNcoder/InterviewPrep/blob/master/CompanyWise/Amazon.md) -> ( On campus details added )
 * [Google](CompanyWise/Google.md)
 * [D E Shaw](CompanyWise/DEShaw.md)
 * [Microsoft](CompanyWise/Microsoft.md)
