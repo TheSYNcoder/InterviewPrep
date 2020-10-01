@@ -11,6 +11,13 @@ Participate in [Hacktoberfest](https://hacktoberfest.digitalocean.com/). Add new
 * create a pull request  
 ###### Have Fun!
 
+#### Contributing Guidelines 
+Steps
+* Solve a problem
+* If its a of a particular topic, from a particular website or relating to a particular company or an article then add the code/link to that subfolder
+* Make a corresponding changes to README.md
+* Create the pull request
+
 ## Sites
 
 * [Leetcode](Sites/Leetcode.md)
