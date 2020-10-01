@@ -1,22 +1,7 @@
 # InterviewPrep
 A repository containing link of good interview questions.
 
-#### NEW
-Participate in [Hacktoberfest](https://hacktoberfest.digitalocean.com/). Add new and interesting problems and contribute to our repository.   
-
-##### Steps
-* star this repository
-* fork 
-* add and commit your changes
-* create a pull request  
-###### Have Fun!
-
-#### Contributing Guidelines 
-Steps
-* Solve a problem
-* If it is of a particular topic, from a particular website or relating to a particular company or an article then add the code/link to that subfolder
-* Make a corresponding changes to README.md
-* Create the pull request
+Want to contribute to Interview Prep : Please have a look at our [contributing guidelines](./CONTRIBUTING.md)
 
 ## Sites
 
