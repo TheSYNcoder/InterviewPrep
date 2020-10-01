@@ -50,8 +50,6 @@ Want to contribute to Interview Prep : Please have a look at our [contributing g
 * [CS general](https://zero1code.info/)
 * [All articles on Leetcode](https://leetcode.com/discuss/general-discussion/665604/important-and-useful-links-from-all-over-the-leetcode)
 * [Top K elements](https://leetcode.com/articles/top-k-frequent-elements/)
-* [Article on Google Online Assessment Questions](https://leetcode.com/discuss/interview-question/352460/Google-Online-Assessment-Questions)
-* [How to find Next Lexicographical Permutation](https://www.nayuki.io/page/next-lexicographical-permutation-algorithm)
-* [All Questions solved by Aritra Sen for Google Interview](https://github.com/aritra-sen/DSA-Practice)
+* [More Dsa Interview questions](https://github.com/aritra-sen/DSA-Practice)
 
 
