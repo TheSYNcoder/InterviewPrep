@@ -53,7 +53,4 @@ Want to contribute to Interview Prep : Please have a look at our [contributing g
 * [Article on Google Online Assessment Questions](https://leetcode.com/discuss/interview-question/352460/Google-Online-Assessment-Questions)
 * [How to find Next Lexicographical Permutation](https://www.nayuki.io/page/next-lexicographical-permutation-algorithm)
 * [All Questions solved by Aritra Sen for Google Interview](https://github.com/aritra-sen/DSA-Practice)
-
-
-### Credits
-Some interview questions were obtained from the list of questions provided by [Raj Vikramaditya](https://www.linkedin.com/in/rajarvp/). The list can be found [here](https://docs.google.com/document/d/1SM92efk8oDl8nyVw8NHPnbGexTS9W-1gmTEYfEurLWQ/edit).
+* [Interview prep SDE Sheet by Raj Vikramaditya](https://docs.google.com/document/d/1SM92efk8oDl8nyVw8NHPnbGexTS9W-1gmTEYfEurLWQ/edit)
