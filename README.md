@@ -4,12 +4,12 @@ A repository containing link of good interview questions.
 #### NEW
 Participate in [Hacktoberfest](https://hacktoberfest.digitalocean.com/). Add new and interesting problems and contribute to our repository.   
 
-Steps
+##### Steps
 * star this repository
 * fork 
 * add and commit your changes
-* create a pull request
-Have fun!
+* create a pull request  
+###### Have Fun!
 
 ## Sites
 
