@@ -31,4 +31,4 @@
 * [Non Overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/), [Solution](https://leetcode.com/problems/non-overlapping-intervals/discuss/792771/Algorithm-Explained-or-Example-Dry-Run-or-Easy-to-Understand)
 * [Find median of two sorted arrays using binary search](https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/), [Solution](../Solutions/median_2_sorted_array.cpp)
 * [Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/) [Solution](../Solutions/LC1526.cpp)
-* [Counting Bits](https://leetcode.com/problems/counting-bits/)
+* [Counting Bits](https://leetcode.com/problems/counting-bits/) , [Solution](../Solutions/CountingBits.cpp)
