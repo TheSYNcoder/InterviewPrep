@@ -1,5 +1,7 @@
 # InterviewPrep
 A repository containing link of good interview questions.
+We are a team of students from [Jadavpur University](http://www.jaduniv.edu.in/) and share questions we faced during our interview preparation and during our
+interviews.
 
 Want to contribute to Interview Prep : Please have a look at our [contributing guidelines](./CONTRIBUTING.md)
 
