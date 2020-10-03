@@ -20,6 +20,5 @@ int main(){
         }
         dp[i] = sum ; 
     }
-    cout<<dp[n];
- 
+    cout<<dp[n]; 
 }
