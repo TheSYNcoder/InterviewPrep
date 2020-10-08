@@ -12,3 +12,5 @@
 
 * [Compare version numbers](https://leetcode.com/problems/compare-version-numbers/), [Solution](https://www.geeksforgeeks.org/compare-two-version-numbers/)
 
+* [Minimum number of characters that need to be inserted in the beginning of a string to make it a palindrome](https://practice.geeksforgeeks.org/problems/form-a-palindrome/0), [Solution](https://www.geeksforgeeks.org/minimum-characters-added-front-make-string-palindrome/)
+
