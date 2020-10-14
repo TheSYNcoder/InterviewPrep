@@ -1,4 +1,4 @@
-Adobe Product Development **Internship** On-Campus (NIT Raipur)
+Adobe Product Development **Internship** On-Campus (NIT Raipur) by **Shushriya Swarnkar**
 
 **2019**
 
