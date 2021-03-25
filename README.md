@@ -50,6 +50,7 @@ Want to contribute to Interview Prep : Please have a look at our [contributing g
 * [CS notes](https://github.com/darshanime/notes/)
 * [CS general](https://zero1code.info/)
 * [All articles on Leetcode](https://leetcode.com/discuss/general-discussion/665604/important-and-useful-links-from-all-over-the-leetcode)
+* [Dynamic Programmming with subsets (Leetcode)](https://leetcode.com/discuss/general-discussion/1125779/dynamic-programming-on-subsets-with-examples-explained)
 * [Top K elements](https://leetcode.com/articles/top-k-frequent-elements/)
 * [Article on Google Online Assessment Questions](https://leetcode.com/discuss/interview-question/352460/Google-Online-Assessment-Questions)
 * [How to find Next Lexicographical Permutation](https://www.nayuki.io/page/next-lexicographical-permutation-algorithm)
