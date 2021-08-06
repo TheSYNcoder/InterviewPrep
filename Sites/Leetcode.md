@@ -37,3 +37,4 @@
 * [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/) , [Solution](../Solutions/2KeysKeyboard.cpp)
 * [Island Perimeter](https://leetcode.com/problems/island-perimeter/) ,[Solution](../Solutions/IslandPerimeter.cpp)
 * [Minimum Number of Flips](https://leetcode.com/contest/weekly-contest-244/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/) , [Solution](../Solutions/MinimumFlips.cpp)
+* [Detect Skyline](https://leetcode.com/problems/the-skyline-problem/) , [Solution](../Solutions/skyline.cpp)
