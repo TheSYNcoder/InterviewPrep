@@ -12,3 +12,6 @@
 
 * [Compare version numbers](https://leetcode.com/problems/compare-version-numbers/), [Solution](https://www.geeksforgeeks.org/compare-two-version-numbers/)
 
+* [Roman to Integer](https://leetcode.com/problems/roman-to-integer/), [Solution](Solution/romanToInt.java) 
+
+* [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/), [Solution](Solution/validParentheses.java) 
